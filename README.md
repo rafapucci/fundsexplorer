@@ -18,3 +18,16 @@ session = Login(user)
 ReadFileFund('orders/orders.csv') #csv file from Clear homebroker
 ```
 
+## user.json example file
+```json
+{
+    "user": "email@email.com",
+    "password": "senha123",
+    "wallet": "xxxxx"
+}
+
+```
+
+## Vídeo
+
+[![FundsExplorerImporter](https://img.youtube.com/vi/oh6oY2mQWNI/0.jpg)](https://www.youtube.com/watch?v=oh6oY2mQWNI)
