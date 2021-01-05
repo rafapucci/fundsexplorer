@@ -31,3 +31,9 @@ ReadFileFund('orders/orders.csv') #csv file from Clear homebroker
 ## Vídeo
 
 [![FundsExplorerImporter](https://img.youtube.com/vi/oh6oY2mQWNI/0.jpg)](https://www.youtube.com/watch?v=oh6oY2mQWNI)
+
+## ToDo
+
+- [ ] Import more than one file per execution;
+- [ ] Expand the script for other homebrokers;
+- [ ] Fix all the bugs and improve the code :smile:
